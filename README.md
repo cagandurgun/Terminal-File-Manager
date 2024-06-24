@@ -23,14 +23,12 @@
    git clone <repository-url>
    cd file-directory-management
    ```
-Compile the program:
+## Compile the program:
 ```bash
 gcc AytarOS.c -o aytar
 ```
-Usage
-Run the program:
 
-bash
+## Run the program:
 ```bash
 ./aytar
 ```
